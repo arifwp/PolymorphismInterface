@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\obj\Debug\netcoreapp3.1\PolymorphismInterface.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\obj\Debug\netcoreapp3.1\PolymorphismInterface.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\obj\Debug\netcoreapp3.1\PolymorphismInterface.AssemblyInfo.cs
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.exe
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.deps.json
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.runtimeconfig.json
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.runtimeconfig.dev.json
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.dll
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\bin\Debug\netcoreapp3.1\PolymorphismInterface.pdb
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\obj\Debug\netcoreapp3.1\PolymorphismInterface.dll
+C:\Users\User\source\repos\PolymorphismInterface\PolymorphismInterface\obj\Debug\netcoreapp3.1\PolymorphismInterface.pdb
